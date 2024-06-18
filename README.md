@@ -1,1 +1,2 @@
 # CryptoCurrency-Price-Prediction-using-Machine-Learning
+Cryptocurrencies empower individuals with decentralized, secure transactions, fostering financial autonomy. They enable efficient peer-to-peer exchanges, minimizing reliance on traditional banking, and promote financial inclusion for the unbanked. We're developing a cryptocurrency price prediction model using advanced algorithms and historical data analysis. The tool aims to provide accurate forecasts, aiding informed decision-making in the dynamic crypto market. The first step is deciding which platform to use.
